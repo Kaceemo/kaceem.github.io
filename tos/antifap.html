@@ -116,23 +116,24 @@
                       <br>
     <li>Stored information.
       <ul>  
-          <li>User ID: Whenever a discord user creates a new streak his user ID is added to our database.</li>
-          <li>Server ID: Whenever a streak, prefix or a color was created on a server, the server ID is added to our database</li>
+          <li>User ID: Whenever a discord user creates a new streak, his user ID is added to our database.</li>
+          <li>Server ID: Whenever a streak is created on a server, the server ID is added to our database.</li>
       </ul>
     </li> 
                       <br>
                <li>For what reason is data stored?
       <ul>  
           <li>User ID: Required so that each user can have his own unique streak assigned to him.</li>
-          <li>Server ID: Required so that each server can have its own unique prefix & embed color. Also allows users to have separate streaks on different servers.</li>
+          <li>Server ID: Required so that each server can have its own unique streaks separated from others along with a leaderboard system. Also allows users to have separate streaks on different servers.</li>
       </ul>
     </li> 
                                         
                       <br>  
                     <li>Data Removal: The data removal process is automatic in the following cases:
       <ul>  
-          <li>Once the bot is kicked from a server, all data assigned to that server is deleted from the database (streaks, color & prefix) which includes the server ID and all users IDs on that server.</li>
+          <li>Once the bot is kicked from a server, all data assigned to that server is deleted from the database (streaks) which includes the server ID and all users IDs on that server.</li>
           <li>Once a user resets his streak and/or a user's streak is forcesfully reset by an admin, the said user's ID is deleted from the database.</li>
+        <li>Once the /leaderboard command is ran, the bot automatically scans all streaks to filter out the users that are no longer in the server and deletes all their user IDs. (this mechanism was put in place to make sure user IDs do not stay stored after a user leaves the server)</li>
         <li>In case of any doubt you may join <a href = "https://discord.gg/6ArX3aa823">our support server</a> and a developer will be available to manually confirm that all of your data is deleted.</li>
       </ul>
     </li>                            
