@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <!-- googleads-->
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4704815673612776"
+     crossorigin="anonymous"></script>
+  
+<!-- Ezoic Code -->
+<script src="//www.ezojs.com/basicads.js?d=kacem.cf" type="text/javascript"></script>
+<!-- Ezoic Code -->
+    <meta charset="utf-8">
+    <title>AntiFap Counter</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="AntiFap Counter" name="keywords">
+    <meta content="Discord bot developed by Prodigy Studios" name="description">
+
+    <!-- Favicon -->
+    <link href="../../img/Kacem_ICON.png" rel="icon">
+
+    <!-- Google Web Fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet"> 
+
+    <!-- Font Awesome -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+
+    <!-- Libraries Stylesheet -->
+    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+
+    <!-- Customized Bootstrap Stylesheet -->
+    <link href="../../css/style.css" rel="stylesheet">
+</head>
+
+<body data-spy="scroll" data-target=".navbar" data-offset="51">
+    <!-- Navbar Start -->
+    <nav class="navbar fixed-top shadow-sm navbar-expand-lg bg-light navbar-light py-3 py-lg-0 px-lg-5">
+        <a href="index.html" class="navbar-brand ml-lg-3">
+            <h1 class="m-0 display-5"><span class="text-primary">Ka</span>cem</h1>
+        </a>
+        <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse px-lg-3" id="navbarCollapse">
+            <div class="navbar-nav m-auto py-0">
+                <a href="#home" class="nav-item nav-link active">Home</a>
+                <a href="#about" class="nav-item nav-link">About</a>
+                <a href="#qualification" class="nav-item nav-link">Quality</a>
+                <a href="#skill" class="nav-item nav-link">Skill</a>
+                <a href="#service" class="nav-item nav-link">Service</a>
+                <a href="#portfolio" class="nav-item nav-link">Portfolio</a>
+                <a href="#testimonial" class="nav-item nav-link">Review</a>
+                <a href="#blog" class="nav-item nav-link">Blog</a>
+                <a href="#contact" class="nav-item nav-link">Contact</a>
+            </div>
+            <a href="" class="btn btn-outline-primary d-none d-lg-block">Hire Me</a>
+        </div>
+    </nav>
+    <!-- Navbar End -->
+
+
+
+
+
+
+
+
+    <!-- About Start -->
+    <div class="container-fluid py-5" id="about">
+        <div class="container">
+            <div class="position-relative d-flex align-items-center justify-content-center">
+                <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;">Bots</h1>
+                <h1 class="position-absolute text-uppercase text-primary">Prodigy Studios</h1>
+            </div>
+            <div class="row align-items-center">
+                <div class="col-lg-5 pb-4 pb-lg-0">
+                    <img class="img-fluid rounded w-100" src="../../img/AntiFap2.png" alt="">
+                </div>
+                <div class="col-lg-7">
+                    <h3 class="mb-4">AntiFap Counter</h3>
+                    <p>A discord bot having your back during your addiction recovery journey. Mainly inspired by the NoFap community.</p>
+                    <div class="row mb-3">
+                        <div class="col-sm-6 py-2"><h6>Developed by: <span class="text-secondary">Kacem</span></h6></div>
+                        <div class="col-sm-6 py-2"><h6>Designed by: <span class="text-secondary">Tofu</span></h6></div>
+                        <div class="col-sm-6 py-2"><h6>Server Count: <span class="text-secondary">100 (Awaiting whitelist)</span></h6></div>
+                        <div class="col-sm-6 py-2"><h6>Commands: <span class="text-secondary">▢ Start ▢ Streak ▢ Addstreak ▢ Reset ▢ Forcereset ▢ Prefix ▢ Color</span></h6></div>
+                    </div>
+                  <!--  <a href="" class="btn btn-outline-primary mr-4">Hire Me</a> -->
+                    <a href="https://discord.com/oauth2/authorize?client_id=869598530099109908&permissions=240518556736&scope=bot" class="btn btn-outline-primary">Invite</a>
+                &nbsp; &nbsp; &nbsp; <a href="../../tos/antifap.html" style="font-size: 16px">Terms of Service</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- About End -->
+
+ <style>
+.img:hover{
+    color: #424242; 
+  -webkit-transition: all .3s ease-in;
+  -moz-transition: all .3s ease-in;
+  -ms-transition: all .3s ease-in;
+  -o-transition: all .3s ease-in;
+  transition: all .3s ease-in;
+  opacity: 1;
+  transform: scale(1.7);
+  -ms-transform: scale(1.7); /* IE 9 */
+  -webkit-transform: scale(1.7); /* Safari and Chrome */
+
+}  
+ </style> 
+  
+    <!-- Blog Start -->
+
+    <div class="container-fluid pt-5" id="blog">
+        <div class="container">
+            <div class="position-relative d-flex align-items-center justify-content-center">
+                <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;">AntiFap</h1>
+                <h1 class="position-absolute text-uppercase text-primary">Preview</h1>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 mb-5">
+                    <div class="position-relative mb-4">
+                        <img class="img-fluid rounded w-100 img" src="../showcase/antifap_showcase.png" alt="">
+                      
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-5">
+                    <div class="position-relative mb-4">
+                        <img class="img-fluid rounded w-100 img" src="https://media.discordapp.net/attachments/869611168124268617/1110514815006408754/AntiFap_Task.gif?width=786&height=473" alt="Animated showcase" width="60">
+                    </div>
+                </div>
+                <div class="col-lg-4 mb-5">
+                    <div class="position-relative mb-4">
+                        <img class="img-fluid rounded w-100 img" src="https://media.discordapp.net/attachments/869611168124268617/1110513603523653704/AntiFap_Check.gif" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Blog End -->
+
+
+
+
+  
+  
+
+
+    <!-- Scroll to Bottom -->
+    <i class="fa fa-2x fa-angle-down text-white scroll-to-bottom"></i>
+
+    <!-- Back to Top -->
+    <a href="#" class="btn btn-outline-dark px-0 back-to-top"><i class="fa fa-angle-double-up"></i></a>
+
+
+    <!-- JavaScript Libraries -->
+	
+	  <script>  
+  async function hola (){
+  const response = await fetch('https://discord.com/api/v9/application-directory-static/search?query=nofap&guild_id=869611167646089267&page=1&category_id=0&locale=en-GB://example.com/movies.json');
+  const myJson = await response.json(); //extract JSON from the http response
+  // do something with myJson
+    //console.log(myJson.results[0].data.directory_entry.guild_count)
+
+document.getElementsByClassName("text-secondary")[2].innerHTML = myJson.results[0].data.directory_entry.guild_count
+    
+}
+    hola()
+  </script>
+	
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+    <script src="lib/typed/typed.min.js"></script>
+    <script src="lib/easing/easing.min.js"></script>
+    <script src="lib/waypoints/waypoints.min.js"></script>
+    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="lib/isotope/isotope.pkgd.min.js"></script>
+    <script src="lib/lightbox/js/lightbox.min.js"></script>
+
+    <!-- Contact Javascript File -->
+    <script src="mail/jqBootstrapValidation.min.js"></script>
+    <script src="mail/contact.js"></script>
+
+    <!-- Template Javascript -->
+    <script src="js/main.js"></script>
+</body>
+
+</html>
