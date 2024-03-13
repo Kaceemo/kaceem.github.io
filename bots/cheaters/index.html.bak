@@ -3,7 +3,7 @@
 
 <head>
 
-  <!-- googleads-->
+<!-- googleads-->
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4704815673612776"
      crossorigin="anonymous"></script>
@@ -12,9 +12,9 @@
 <script src="//www.ezojs.com/basicads.js?d=kacem.cf" type="text/javascript"></script>
 <!-- Ezoic Code -->
     <meta charset="utf-8">
-    <title>Ares</title>
+    <title>Cheaters</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Ares" name="keywords">
+    <meta content="Cheaters" name="keywords">
     <meta content="Discord bot developed by Prodigy Studios" name="description">
 
     <!-- Favicon -->
@@ -77,18 +77,19 @@
             </div>
             <div class="row align-items-center">
                 <div class="col-lg-5 pb-4 pb-lg-0">
-                    <img class="img-fluid rounded w-100" src="../../img/Ares.png" alt="">
+                    <img class="img-fluid rounded w-100" src="../../img/CXS.png" alt="">
                 </div>
                 <div class="col-lg-7">
-                    <h3 class="mb-4">Ares</h3>
-                    <p>A workout companion with daily reminders and scoring system to make sure you stick to a serious training schedule.</p>
+                    <h3 class="mb-4">Cheaters</h3>
+                    <p>A multi-function custom discord bot made for the one and only Cheaters Clan. The number 1 clan on JartexNetwork.</p>
                     <div class="row mb-3">
-                        <div class="col-sm-6 py-2"><h6>Developed by: <span class="text-secondary">Kacem</span></h6></div>
-                        <div class="col-sm-6 py-2"><h6>Designed by: <span class="text-secondary">Kacem</span></h6></div>
+                        <div class="col-sm-6 py-2"><h6>Developed by: <span class="text-secondary">Kacem & Eater</span></h6></div>
+                        <div class="col-sm-6 py-2"><h6>Designed by: <span class="text-secondary">Tofu</span></h6></div>
                         <div class="col-sm-6 py-2"><h6>Server Count: <span class="text-secondary">1 (Custom Bot)</span></h6></div>
-                        <div class="col-sm-6 py-2"><h6>Commands: <span class="text-secondary">▢ Daily ▢ Leaderboard ▢ Workout &ltJoin | Quit&gt</span></h6></div>
+                        <div class="col-sm-6 py-2"><h6>Features: <span class="text-secondary">▢ Log-in Alerts ▢ Live Clan Top ▢ In-Game Watchlist</span></h6></div>
                     </div>
                   <!--  <a href="" class="btn btn-outline-primary mr-4">Hire Me</a> -->
+                    <a href="../../gotcha.html">Server Invite</a>
                 </div>
             </div>
         </div>
@@ -110,30 +111,30 @@
 
 }  
  </style> 
-  
+
     <!-- Blog Start -->
 
     <div class="container-fluid pt-5" id="blog">
         <div class="container">
             <div class="position-relative d-flex align-items-center justify-content-center">
-                <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;">Ares</h1>
+                <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #dee2e6;">CCBot</h1>
                 <h1 class="position-absolute text-uppercase text-primary">Preview</h1>
             </div>
             <div class="row">
                 <div class="col-lg-4 mb-5">
                     <div class="position-relative mb-4">
-                        <img class="img-fluid rounded w-100 img" src="../../img/ares_daily.png" alt="Daily reminders">
+                        <img class="img-fluid rounded w-100 img" src="https://media.discordapp.net/attachments/709528971020337243/1002946726925172806/unknown.png?width=550&height=222" alt="Real-time Clans Leaderboard">
                       
                     </div>
                 </div>
                 <div class="col-lg-4 mb-5">
                     <div class="position-relative mb-4">
-                        <img class="img-fluid rounded w-100 img" src="../../img/ares_schedule.png" alt="Leaderboard & daily commands" width="60">
+                        <img class="img-fluid rounded w-100 img" src="https://media.discordapp.net/attachments/709528971020337243/1002939638463348736/unknown.png?width=700&height=250" alt="Real-time Notifications">
                     </div>
                 </div>
                 <div class="col-lg-4 mb-5">
                     <div class="position-relative mb-4">
-                        <img class="img-fluid rounded w-100 img" src="../../img/ares_scoring.png" alt="Scoring system">
+                        <img class="img-fluid rounded w-100 img" src="https://media.discordapp.net/attachments/708720870784368703/1022797104516706314/unknown.png?width=362&height=427" alt="Snipe List">
                     </div>
                 </div>
             </div>
@@ -141,11 +142,9 @@
     </div>
 
     <!-- Blog End -->
-
-
-
-
   
+  
+
   
 
 

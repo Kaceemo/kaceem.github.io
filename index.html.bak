@@ -327,9 +327,9 @@
                 </div>
                 <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
                     <div class="position-relative overflow-hidden mb-2">
-                        <img class="img-fluid rounded w-100" src="https://media.discordapp.net/attachments/1183155427299577947/1183163806390681722/dopamed.png?ex=65875629&is=6574e129&hm=e7659ce0d053dcc5fa52c371f51bfe756e61611ba5492f0994ade43422abd1f2&=&format=webp&quality=lossless&width=473&height=473" alt="">
+                        <img class="img-fluid rounded w-100" src="img/dopamed.png" alt="">
                         <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
-                            <a href="/bots/cheaters">
+                            <a href="/bots/dopamed">
                                 <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
                             </a>
                         </div>
@@ -551,7 +551,7 @@
                 <a class="text-white" href="#">Help</a>
             </div>
   -->
-            <p class="m-0">&copy; <a class="text-white font-weight-bold" href="#">kacem.cf</a>. All Rights Reserved. <br><br><img src="img/Kacem_ICON.png" width = "28"> Logo Designed by tofu#0505
+            <p class="m-0">&copy; <a class="text-white font-weight-bold" href="#">kacem.cf</a>. All Rights Reserved. <br><br><img src="img/Kacem_ICON.png" width = "28"> Logo Designed by Amrofficial
             </p>
         </div>
     </div>

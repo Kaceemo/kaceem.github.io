@@ -122,18 +122,18 @@
             <div class="row">
                 <div class="col-lg-4 mb-5">
                     <div class="position-relative mb-4">
-                        <img class="img-fluid rounded w-100 img" src="../../img/ares_daily.png" alt="Daily reminders">
+                        <img class="img-fluid rounded w-100 img" src="https://media.discordapp.net/attachments/708720870784368703/1115320319129956462/image.png" alt="Daily reminders">
                       
                     </div>
                 </div>
                 <div class="col-lg-4 mb-5">
                     <div class="position-relative mb-4">
-                        <img class="img-fluid rounded w-100 img" src="../../img/ares_schedule.png" alt="Leaderboard & daily commands" width="60">
+                        <img class="img-fluid rounded w-100 img" src="https://media.discordapp.net/attachments/708720870784368703/1115318978324222084/image.png" alt="Leaderboard & daily commands" width="60">
                     </div>
                 </div>
                 <div class="col-lg-4 mb-5">
                     <div class="position-relative mb-4">
-                        <img class="img-fluid rounded w-100 img" src="../../img/ares_scoring.png" alt="Scoring system">
+                        <img class="img-fluid rounded w-100 img" src="https://media.discordapp.net/attachments/709528971020337243/1018184534656815145/unknown.png" alt="Scoring system">
                     </div>
                 </div>
             </div>

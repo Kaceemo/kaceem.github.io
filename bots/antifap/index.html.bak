@@ -89,7 +89,7 @@
                         <div class="col-sm-6 py-2"><h6>Commands: <span class="text-secondary">▢ Start ▢ Streak ▢ Addstreak ▢ Reset ▢ Forcereset ▢ Prefix ▢ Color</span></h6></div>
                     </div>
                   <!--  <a href="" class="btn btn-outline-primary mr-4">Hire Me</a> -->
-                    <a href="https://discord.com/oauth2/authorize?client_id=869598530099109908&permissions=240518556736&scope=bot" class="btn btn-outline-primary">Invite</a>
+                    <a href="https://discord.com/api/oauth2/authorize?client_id=869598530099109908&permissions=0&scope=bot%20applications.commands" class="btn btn-outline-primary">Invite</a>
                 &nbsp; &nbsp; &nbsp; <a href="../../tos/antifap.html" style="font-size: 16px">Terms of Service</a>
                 </div>
             </div>
@@ -163,9 +163,8 @@
 	  <script>  
   async function hola (){
   const response = await fetch('https://discord.com/api/v9/application-directory-static/search?query=nofap&guild_id=869611167646089267&page=1&category_id=0&locale=en-GB://example.com/movies.json');
-  const myJson = await response.json(); //extract JSON from the http response
-  // do something with myJson
-    //console.log(myJson.results[0].data.directory_entry.guild_count)
+  const myJson = await response.json();
+
 
 document.getElementsByClassName("text-secondary")[2].innerHTML = myJson.results[0].data.directory_entry.guild_count
     
